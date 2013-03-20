@@ -12,4 +12,9 @@ Features:
 It uses apt and the kernel removing thing searches for ubuntu packages, so it can't work on non-debian system 
 like Raspbian on Raspberry Pi.
 
+You need to made executable and run with root permissions:
+
+$ chmod +x ubucleaner.sh
+$ sudo ./ubucleaner.sh
+
 Use under your responsability.
